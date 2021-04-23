@@ -1,0 +1,1 @@
+print("this folder will be removed")
